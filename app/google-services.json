@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "88026225136",
+    "project_id": "ladm-u3-ejercicio2-fireb-2ec54",
+    "storage_bucket": "ladm-u3-ejercicio2-fireb-2ec54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88026225136:android:2f0163d906d595c0a62535",
+        "android_client_info": {
+          "package_name": "tecnm.mx.tepic.ladm_u3_ejercicio2_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88026225136-r87jo1geqf50erd0apt2b7nms6p38rgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_c359O8DJ3CziVSjkHnGTtoHxr5eIzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88026225136-r87jo1geqf50erd0apt2b7nms6p38rgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88026225136:android:5d892a13d5b08e95a62535",
+        "android_client_info": {
+          "package_name": "tecnm.mx.tepic.ladm_u4_practica1_llamadas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88026225136-r87jo1geqf50erd0apt2b7nms6p38rgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_c359O8DJ3CziVSjkHnGTtoHxr5eIzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88026225136-r87jo1geqf50erd0apt2b7nms6p38rgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
